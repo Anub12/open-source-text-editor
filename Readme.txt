@@ -1,4 +1,4 @@
-this is a Readme file
+Open Source Text editor
 
 # Documentation for using this text editor
 
